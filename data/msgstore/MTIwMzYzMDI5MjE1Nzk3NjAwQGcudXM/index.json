@@ -1,0 +1,90 @@
+{
+  "nextId": 79,
+  "items": [
+    {
+      "id": 74,
+      "timestamp": 1792497071000,
+      "sender": "120363029215797600@g.us",
+      "key": {
+        "remoteJid": "120363029215797600@g.us",
+        "id": "3EB05F19A08DE87B0DBSTARFALL767",
+        "fromMe": true
+      },
+      "type": "extendedTextMessage",
+      "text": "Fitur berhasil di *aktifkan*:\n- antidelete",
+      "mimetype": "",
+      "fileName": "",
+      "ptt": false,
+      "gifPlayback": false,
+      "mediaSize": 0
+    },
+    {
+      "id": 75,
+      "timestamp": 1792497079000,
+      "sender": "120363029215797600@g.us",
+      "key": {
+        "remoteJid": "120363029215797600@g.us",
+        "id": "3EB002STARFALL6457543C5D7FAE68",
+        "fromMe": true
+      },
+      "type": "extendedTextMessage",
+      "text": "Arsip manual: mati\nAntidelete: aktif\nPesan tersimpan: 1\nRetensi: maksimal 7 hari",
+      "mimetype": "",
+      "fileName": "",
+      "ptt": false,
+      "gifPlayback": false,
+      "mediaSize": 0
+    },
+    {
+      "id": 76,
+      "timestamp": 1792497505000,
+      "sender": "120363029215797600@g.us",
+      "key": {
+        "remoteJid": "120363029215797600@g.us",
+        "id": "3EB0FF9AB05CE9A3183STARFALL297",
+        "fromMe": true
+      },
+      "type": "extendedTextMessage",
+      "text": "*Waktu Sholat Tiba!* 🕌\n            \n- Tepat pada 🕑 Pukul *18:58 WIB*\n- 💬 Waktu Sholat *Isya* telah tiba untuk \nwilayah *Jakarta & Sekitarnya*\n\n_\"Dirikanlah shalat dari sesudah matahari tergelincir sampai gelap malam dan (dirikanlah pula shalat) subuh.\"_\n(QS. Al-Isra: 78)\n\n> Segera tunaikan ibadah sholat bagi yang muslim",
+      "mimetype": "",
+      "fileName": "",
+      "ptt": false,
+      "gifPlayback": false,
+      "mediaSize": 0
+    },
+    {
+      "id": 77,
+      "timestamp": 1792498367000,
+      "sender": "120363029215797600@g.us",
+      "key": {
+        "remoteJid": "120363029215797600@g.us",
+        "id": "3EB0DSTARFALL1EA45F73FBFDABFBC",
+        "fromMe": true
+      },
+      "type": "extendedTextMessage",
+      "text": "*GROUP SETTINGS*\n\n[1] welcome : *ON*\n[2] goodbye : *ON*\n[3] antilinkgc : *OFF*\n[4] antichannel : *OFF*\n[5] antilinkch : *OFF*\n[6] antilinkall : *OFF*\n[7] antipromosi : *OFF*\n[8] antisticker : *OFF*\n[9] antitoxic : *OFF*\n[10] antitagsw : *OFF*\n[11] autosholat : *ON*\n[12] autoberita : *OFF*\n[13] antidelete : *ON*\n[14] antifoto : *OFF*\n\nCatatan: antidelete menyimpan arsip internal secara otomatis.\n› Cara: .on <nomor>\n› Contoh: .on 1 3 5",
+      "mimetype": "",
+      "fileName": "",
+      "ptt": false,
+      "gifPlayback": false,
+      "mediaSize": 0
+    },
+    {
+      "id": 78,
+      "timestamp": 1792498374000,
+      "sender": "120363029215797600@g.us",
+      "key": {
+        "remoteJid": "120363029215797600@g.us",
+        "id": "3EB0D8CF1FBDSTARFALL3EE8C17F4D",
+        "fromMe": true
+      },
+      "type": "extendedTextMessage",
+      "text": "Fitur berhasil di *matikan*:\n- antidelete",
+      "mimetype": "",
+      "fileName": "",
+      "ptt": false,
+      "gifPlayback": false,
+      "mediaSize": 0
+    }
+  ]
+}
